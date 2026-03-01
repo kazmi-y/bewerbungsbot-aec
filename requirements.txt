@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+python-docx
+pydantic
+python-dotenv
+google-genai
+docx2pdf
